@@ -1,0 +1,5 @@
+﻿id,name,patientId,date,time,reason,status,createdAt
+"APT-37356249","RD Sharma","Demo-004","2026-10-21","11:00 AM","Dental consultation","Pending automation","2026-10-17T11:42:36.249Z"
+"APT-37334234","Alex Morgan","Demo-003","2026-10-20","03:30 PM","Follow-up visit","Pending automation","2026-10-17T11:42:14.234Z"
+"APT-37248598","Sanjana","Demo-002","2026-10-18","11:30 AM","Routine check-up","Pending automation","2026-10-17T11:40:48.598Z"
+"APT-32235875","Sakshi","Demo-001","2026-10-19","09:30 AM","Routine check-up","Pending automation","2026-10-17T10:17:15.875Z"

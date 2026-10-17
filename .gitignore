@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production build
+dist/
+frontend/dist/
+
+# UiPath temp & cache files
+.local/
+automation/*/.local/
+automation/*/.tmh/
+automation/*/~*
+*.tmp
+
+# Environment variables
+.env
+.env.local
+.DS_Store
+Thumbs.db
